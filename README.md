@@ -11,3 +11,5 @@ git branch master ->??
 
 새로운 branch 기존 파일에 pull 완료
 push 시도 후에 다른 파일에 pull 시도
+
+main git merge 완료 push 시도
