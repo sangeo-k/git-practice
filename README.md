@@ -5,3 +5,6 @@
 수정: 2024: 12시 36분
 
 git branch 편집 연습
+git branch head -> master
+
+git branch master ->???
