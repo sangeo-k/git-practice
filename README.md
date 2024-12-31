@@ -18,3 +18,4 @@ branch main에서 README.md 수정.
 branch test에서 README.md 수정 후 push를 origin main만 할 예정
 
 branch test 삭제 진행, 원격 또한 진행
+branch test 삭제 완료.
